@@ -1,8 +1,8 @@
 ```js
-  console.log('👋hello i'm VERSE-Web');
+console.log('👋hello i'm VERSE-Web');
 ```
 ```py
-  print("👋 Hello, I'm VERSE-Web")
+print("👋 Hello, I'm VERSE-Web")
 ```
 
 > *Self-proclaimed boring, dumb, and totally into codding/osinting. Welcome, fellow newbies and code explorers!*
