@@ -4,10 +4,10 @@
 
 ---
 
-#  💭 Fav quote.
+#  💭 Fav Quote.
 
-> *Float Like a Butterfly🦋, sting em like a bee🐝.
-> —  Mohammad ali*
+> *Float like a butterfly 🦋, sting 'em like a bee 🐝.*  
+> — *Muhammad Ali*
 
 ---
 # best Project📝
@@ -60,6 +60,9 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 
 If you’re a newbie, a pro, or just bored, drop a message, open an issue, or send a meme my way.  
 Let’s make mistakes and learn together!
+
+- 💬 **Discord:** `Boeing.777_200`
+- 📧 **Email:** `mehranislam111@gmail.com`
 
 ---
 
