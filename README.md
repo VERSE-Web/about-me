@@ -20,12 +20,6 @@ A growing wiki for all things programming, built by a newbie for newbies. If you
 
 ---
 
-## 🥧 My Languages Pie Chart
-
-![Languages Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['HTML','CSS','JavaScript','Python'],datasets:[{data:[25,25,40,10],backgroundColor:['#e34c26','#563d7c','#f1e05a','#3572A5']}]}})
-
----
-
 ## 🛠️ Tech Stack
 
 - JavaScript (I use semicolons… sometimes)
