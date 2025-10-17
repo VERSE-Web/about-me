@@ -4,6 +4,13 @@
 
 ---
 
+#  💭 Fav quote.
+
+> *Float Like a Butterfly🦋, sting em like a bee🐝.
+> —  Mohammad ali*
+
+---
+
 ## 🧑‍💻 About Me
 
 - **Full-Stack Web Dev** (or at least trying my best!)
