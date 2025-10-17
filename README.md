@@ -1,5 +1,5 @@
 ```js
-console.log('👋hello i'm VERSE-Web');
+console.log("👋hello i'm VERSE-Web"); //using "" instead of '' because the ' in I'm would interfear.
 ```
 ```py
 print("👋 Hello, I'm VERSE-Web")
